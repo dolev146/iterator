@@ -1,4 +1,4 @@
-// g++ -o main main.cpp -std=c++2a -Wall -Wextra -Werror
+// g++ -o part1 part1.cpp -std=c++2a -Wall -Wextra -Werror
 
 #include <iostream>
 #include <string>
